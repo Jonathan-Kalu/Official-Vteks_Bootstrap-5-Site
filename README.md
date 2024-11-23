@@ -31,4 +31,4 @@ A modern, responsive website template for web agencies and freelancers to showca
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/username/web-agency-site.git
+   git clone git@github.com:Jonathan-Kalu/Official-Vteks_Bootstrap-5-Site.git
